@@ -1,0 +1,21 @@
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated style profiles, drafts and comparison reports
+# These may contain the user's own novel text - never commit them.
+profiles/
+style-profile.md
+style-card.md
+profile*.json
+compare*.json
+drafts/
+
+# Packages / OS / editor
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
